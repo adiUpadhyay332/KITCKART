@@ -1,0 +1,18 @@
+.flex-all-center
+{
+
+    font-family: Gilroy, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.text-center
+{
+    text-align: center;
+}
+.line-spacing
+{
+    margin: 14px 0;
+}
